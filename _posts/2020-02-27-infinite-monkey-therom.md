@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Infinite Monkey Theorem
+title: Sample - Infinite Monkey Theorem
 subtitle: as crazy as it sounds...
 tags: [Sample]
 ---
