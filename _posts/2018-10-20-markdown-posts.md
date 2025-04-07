@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Or maybe Markdown
+title: Sample - Markdown
 subtitle: This post explains how you can write posts using Markdown.
 tags: [Sample]
 ---
