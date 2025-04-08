@@ -5,9 +5,15 @@ title: About Me
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-I'm Akzolon
+Hi I'm Akzolon
 
 On this page you'll mostly find my notes to myself about my ongoing personal projects.
+
+Why? You may or may not ask. Why would you make for yourself about your own projects? 
+
+It's a way to track my own progress and to keep myself motivated with my own projects.
+
+:)
 
 ### My Socials
 
