@@ -6,7 +6,7 @@ tags:
   - OSC
   - Animation
 ---
-![[Perdue-walk-cycle.gif]]
+![](../assets/Perdue-walk-cycle.gif)
 
 Usually I hate animating walk cycles because they're just so annoying to do.
 
@@ -18,7 +18,7 @@ I've found this Guide by a famous Animator [Richard Williams](https://en.wikiped
 
 Animation for Object show doesn't usually take long so I can permit myself some room for experimentation.
 
-![[RW-walk-cycle.jpg]]
+![](../assets/RW-walk-cycle.jpg)
 
 You can see the result at the top of this page in the .gif format.
 
