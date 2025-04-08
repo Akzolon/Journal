@@ -26,4 +26,4 @@ To be honest, It turned out way better than I have expected and I'm glad that it
 
 My previous way of animating walk cycles was terrible and I desperately needed a new method.
 
-Because the method I used while animating [The Magician](https://www.youtube.com/watch?v=w4l25xpmrhc) doesn't really work when animating objects.
+Sadly, the method I used while animating [The Magician](https://www.youtube.com/watch?v=w4l25xpmrhc) doesn't really work when animating objects.
