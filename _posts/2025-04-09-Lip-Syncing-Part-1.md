@@ -13,7 +13,7 @@ I've been experimenting a bit with a new lip sync method that would look better 
 
 For example:
 
-Here is my work from May 2024 when I worked on [BFGC](https://www.youtube.com/playlist?list=PLHZQQqIoYvHeQ30WpQX1zLTW1U4NneE1Q)[Episode 2](https://www.youtube.com/watch?v=MWDASsxXRAA)
+Here is my work from May 2024 when I worked on [BFGC](https://www.youtube.com/playlist?list=PLHZQQqIoYvHeQ30WpQX1zLTW1U4NneE1Q) [Episode 2](https://www.youtube.com/watch?v=MWDASsxXRAA)
 
 ![](../assets/2025-04-09-Lip-Syncing-Part-1/TS_lip_sync.gif)
 >"Yeah, I think it pretty good and you should like it"
