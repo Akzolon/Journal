@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Lip Sync Method
-subtitle: "Something I stumbled\r upon, it looked interesting enough to save for later"
+subtitle: "This may be useful"
 tags:
   - OSC
   - Animation
