@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New lip sync method
+title: New Lip Sync Method
 subtitle: "Something I stumbled\r upon, it looked interesting enough to save for later"
 tags:
   - OSC
@@ -45,3 +45,4 @@ So when animating the lip movement the upper teeth musn't change their position 
 It's interesting because that's exactly how the human jaw works and I'm trying to copy that. 
 
 ![](../assets/2025-04-09-Lip-Syncing-Part-1/Fossil_lip_sync.gif)
+> "Dans mon esprit tout divague..."
