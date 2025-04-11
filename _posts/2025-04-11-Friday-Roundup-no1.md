@@ -21,13 +21,6 @@ So Immna do a Roundup!
 
 ---
 
-## WORK *that I really wish I did* THIS WEEK:
-
-* Got back to my old screenplay
-* Got back to drawing
-* Organised my time better
-
-
 ## WORK I DID THIS WEEK:
 
 
@@ -51,3 +44,11 @@ Original Template Design
 * BBQ-ed some Dreams with [ƎNA](https://store.steampowered.com/app/2134320/ENA_Dream_BBQ/)
 
 ![](https://media1.tenor.com/m/tqaWUpMKZ2wAAAAC/ena-dream-bbq.gif)
+
+## WORK *that I really wish I did* THIS WEEK:
+
+* Got back to my old screenplay
+* Got back to drawing
+* Organised my time better
+
+
