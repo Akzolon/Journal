@@ -3,7 +3,7 @@ layout: post
 title: "Weekly Roundup April 2025 #1"
 subtitle: Starting a new thing I guess?
 tags:
-  - "#Roundup"
+  - "Roundup"
 ---
 NOTE:
 
@@ -21,10 +21,10 @@ So Immna do a Roundup!
 
 ---
 
-### WORK I DID THIS WEEK:
+## WORK I DID THIS WEEK:
 
 
-#### Miscellaneous
+### Miscellaneous
 
 * Finished reading [a book](https://en.wikipedia.org/wiki/The_Fountainhead)
 * Started [This Very](https://akzolon.github.io/Journal/) Journal
@@ -33,13 +33,13 @@ So Immna do a Roundup!
 Original Template Design
 
 
-#### Animation
+### Animation
 
-* Figured out how to [[2025-04-08-Perdue-Walk-Cycle|Animate a walk cycle]]
+* Figured out how to [Animate a walk cycle](https://akzolon.github.io/Journal/2025-04-08-Perdue-Walk-Cycle/)
 * Made a flower asset for the Animation
-* Started [[2025-04-09-Lip-Syncing-Part-1|Lip syncing Fossil]]
+* Started [Lip syncing Fossil](https://akzolon.github.io/Journal/2025-04-09-Lip-Syncing-Part-1/)
 
-#### Gaming
+### Gaming
 
 * BBQ-ed some Dreams with [ƎNA](https://store.steampowered.com/app/2134320/ENA_Dream_BBQ/)
 
