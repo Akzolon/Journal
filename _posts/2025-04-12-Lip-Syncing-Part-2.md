@@ -26,6 +26,7 @@ So I'm still following the method I outlined in the [Previous post on the subjec
 It looks something like this:
 
 ![](../assets/2025-04-12-Lip-Syncing-Part-2/2.gif)
+
 Note that the red line there is just for reference and it wont be in the final render.
 
 All in all, I'm pretty happy with how the animation is going so far. 
