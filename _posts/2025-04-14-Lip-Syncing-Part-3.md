@@ -57,20 +57,17 @@ and I hate it...
 
 ![](https://media1.tenor.com/m/s-4kvwARd0cAAAAC/garfield-sad.gif)
 
-I hate having Springtime lethargy 
-Most specifically It's symptoms
+I hate having Springtime lethargy
 
-I am ***much*** more tired. 
-However I can still think... and 
+I am ***much*** more tired, however that tiredness is ***not*** strong enough to prevent me from thinking about it.
 
 I'm not as productive in my personal labours as I COULD HAVE BEEN if I were not dead tired.
 I'm unhappy because I can't really do the things I enjoy doing. 
 
-Today I have slept during the day for 3 hours straight.
-I never sleep during the day.
-Fever dreams are always fun.
+Today I have slept during the day for 3 hours straight. I never sleep during the day. Fever dreams are always fun.
 
 I'm still doing my obligated labours since I don't have much of a choice.
+
 I hope this ends soon.
 
 ![](https://media1.tenor.com/m/W2SGy-aAitkAAAAC/raining-snoopy.gif)
