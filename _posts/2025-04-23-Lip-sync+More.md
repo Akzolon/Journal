@@ -19,7 +19,10 @@ I finished Lip Syncing Perdue
 :D
 
 Here's the final result:
+
 ![](../assets/2025-04-23-Lip-sync+More/1.gif)
+
+
 It looks much better than I hoped it would...
 and for that I'm happy
 
