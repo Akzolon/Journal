@@ -4,7 +4,7 @@ title: Lip Sync Update No.3 + More
 subtitle: Starting to branch out again...
 tags:
   - Animation
-  - "#Music_Making"
+  - Music_Making
   - OSC
 ---
 
