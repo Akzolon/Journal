@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 
-subtitle: 
+title: Thoughts on drawing
+subtitle: Should I start again?
 tags:
   - Drawing
 ---
 
-Well, this will be my fifth attempt
+Well, this would be my fifth attempt
 
 
 Have I learned anything in those four prevoius attempts? I... I don't know... 
