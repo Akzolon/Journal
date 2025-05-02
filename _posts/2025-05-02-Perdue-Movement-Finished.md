@@ -3,7 +3,8 @@ layout: post
 title: Finishing Perdue's Movement
 subtitle: Halfway there
 tags:
-  - Roundup
+  - OSC
+  - Animation
 ---
 Good news.
 
