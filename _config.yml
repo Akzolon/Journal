@@ -22,3 +22,5 @@ navbar:
    link: "about"
  - name: "Portfolio"
    absolute-link: "https://www.youtube.com/watch?v=5aQ6QMvharg"
+  - name: "Sticky"
+    link: "sticky"
