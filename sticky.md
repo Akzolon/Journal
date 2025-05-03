@@ -7,7 +7,7 @@ tags:
 
 ## On Improvement:
 
-![](../assets/Improvement.jpg)
+![](../assets/improvement.jpg)
 
 Original graph by [Marc Dalessio](https://marcdalessio.com/self-portraits-over-the-years-2)
 
