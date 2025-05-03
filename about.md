@@ -11,7 +11,7 @@ On this page you'll mostly find my notes to myself about my ongoing personal pro
 
 Why? You may or may not ask. Why would you write to yourself about your own projects? 
 
-It's a way to track my own progress and to keep myself motivated while working on my own projects.
+Because I'm not perfect. I forget, I get distracted and I get lost. If this helps even a tiny bit I would be happy.
 
 :)
 
