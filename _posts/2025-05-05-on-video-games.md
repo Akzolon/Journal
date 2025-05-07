@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Playing Video Games as Leisure
-subtitle: Ugrhhhh...
+subtitle: Musings on the subject...
 tags:
   - Gaming
 ---
