@@ -21,6 +21,6 @@ navbar:
  - name: "About"
    link: "about"
  - name: "Portfolio"
-   absolute-link: "https://www.youtube.com/watch?v=5aQ6QMvharg"
+   absolute-link: "https://akzolon.github.io/Portfolio/"
  - name: "Sticky"
    link: "sticky"
