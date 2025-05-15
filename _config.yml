@@ -22,6 +22,6 @@ navbar:
    link: "about"
  - name: "Portfolio"
    absolute-link: "https://akzolon.github.io/Portfolio/"
-   external: true
+   target: "_blank"
  - name: "Sticky"
    link: "sticky"
