@@ -114,5 +114,5 @@ ABbCc -Dispute Beat (Two characters act differently on the same event causing a 
 
 ---
 
-There probably exists much more types of beats but these ones are the one that I've discovered in my screenplay. That is for now. I've only finished a page and a half. I still have 29 pages to go.
+There probably exists much more types of beats but these ones are the ones that I've discovered in my screenplay. That is for now... I've only finished a page and a half. I still have 29 pages to go.
 
