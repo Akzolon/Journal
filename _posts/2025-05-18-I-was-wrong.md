@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I've was wrong
+title: I was wrong
 subtitle: How nice it is to figure that out on your own
 tags:
   - Writing
@@ -56,7 +56,9 @@ Since these talk about scenes and not beats I should find another way to label t
 
 
 > ?BC - Unknown Beat
+> 
 > A?C - Uncaused Beat
+> 
 > AB? - Unfinished Beat
 
 These are amazing at obscuring some specific information to cause immediate tension. They DON'T have their own respective Abc, aBc or abC. They all resolve into an ABC.
